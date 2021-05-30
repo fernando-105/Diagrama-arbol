@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/fernando-105/Diagrama-arbol/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fernando-105/Diagrama-arbol/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=5,IE=9" ><![endif]-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>DIAGRAMA de laberinto</title>
+<meta charset="utf-8"/>
+</head>
+<body><div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom layers lightbox&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;Electron\&quot; modified=\&quot;2021-05-30T02:47:44.080Z\&quot; agent=\&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/14.6.13 Chrome/89.0.4389.128 Electron/12.0.7 Safari/537.36\&quot; etag=\&quot;1dZheN0966f8z3lwu_kH\&quot; version=\&quot;14.6.13\&quot; type=\&quot;device\&quot;&gt;&lt;diagram id=\&quot;SsSq0NSFQaFsroAfMglU\&quot; name=\&quot;Página-1\&quot;&gt;7Z1Nc+I4EIZ/TY4zZUm2bB/5SMhhZ2ursrW7cyTBBGpJzBAySfbXrxksByRn6BG2WpZ1SWFBBJZbj6R+W60LNnp4nWym68WXfJatLmgwe71g4wtKk4gWf3cFb/uCMA33Bfeb5WxfRN4Lbpb/ZWVhUJY+L2fZ09EHt3m+2i7Xx4V3+eNjdrc9KptuNvnL8cfm+er4W9fT+0wpuLmbrtTSv5ez7aK8C8Ley6+z5f2i/OYoKd94mIrPljfytJjO8peDInZ5wUabPN/uXz28jrLVrulEs+z/7+qDd6vftcket5B/+BLM/1xM0280mjx9/+3m99fl+uVTWcv36eq5vN8LyldFfcN18eJ+90IUzPPie4oGnN7tP8m/Pe9++vCvbDObPk7fC3b3Kh6jKCOHbx/XeysXPD2vd1Vs31bHdex+wKd9zYPiAzRcv6q1DgJRTdESP2o6rrwoVb6wKNvfnFJ88O/06DfRom0LCywuhi+L5Ta7We+b5aXoA0XZYvuwKq5I8XL6tN6b5Xz5ms12t7FcrUb5Kt/8qIjNk7vs7m5329tN/m928M5tEoVRUH354ZMWjy3bbLPXg6LyyU+y/CHbbt6Kj5Tv0ri0wpd3G+Zlz1wcmK8om5a95r6q6d2yihelcf2CoVHXDG3oDe2nhlbiPkG2O1Zjd3ILP84Gu4GiuHrMH7PjVi1aYvP2T3ERfI7E5dfD98a7Gw+qq7fy6sOmfMqfN6Vh/7SnbKeb+2x7Gt3Z7Gj8Uh/MQctHgdryomyTrabb5ffjUa/ucZTf8Ee+/NFNP3juVb2iiv19l/91OExJFTEqVRRIFe0bRqnoh3VUt61vMKFroBp5UEFARTgyqaLOkSoEkoraTSrWEKlIYpZU3DVSjT2pIKSiITKp4s6RigNJFVpFKhYcP3iW6pIqkioKzZIqdY1Ul55UEFJVIyQWqUidf+uXUPW63B6Qqrj6evDOO6d2F+YwldqFKS6NT/I8CIqpkJyYmbWMKeKck+rKcwrCqTDA5tTZbqpaTlVoquWU+WmY6GAdBxyLGwJcNT6aApxzzq2JBxwIcNhueFK3BHAQcFCXmCChpYQLeUOEq64NEU4A1SHCEU84AOEibPc9PXupaV5pDKC0sswvJtGKN0UrbppW7i04Pa3qaKVYbIRNq7oFZ6ct77prljeLsmQW1lleQm8Z581YXiVKWmN5dWtQE+OkzgrijLGVAcdWMQhbMrYq9qKrjlfOWzFBM6yO07PjKTRc/x/ZZnDCNg3M4cTtW2JnlZYpzEPbpxZKFRn2qVHnwjCuu+ZTwxlJY2xxk3YvDoNCFU4xfFpKq0QOoNClVSyHdLRNq8Q1Wl12bd6Ps+LEp9XZCkA35v1JV+dj5NhedOf9CuEMz/vF73aHcGNPOAjhEuwgDtY9BUB0ltO0SqymVSJvEtKmlSwltE0r6hqtRp5WIFphR2SwdkLO2gqNBZNK9ChrSPXBKHU2qeQNlm2TyrnYsaEnFYRUKXZkBcPw5J9BKgollV1RFaEUUZPqrgArD7w81JkilXMe+SH1pAKQigTYOyMZlkverJOLQd34liFOXjaSQDdLhTwbI4HhvUrMOUf+yEOuNtA1TY4tjWB78lk7sfy2RVbAIWebb0xGk3Z4rAI5w/Gx4vvdgdzYQw4EOYrtzA+xnPlmZ3Kih3UPcuQDgzkbctQ05KhrkLv0kINBDlsDCDE0APMzOTDkRFe0BnIymhpbrio5OtqGnHPqwZWHXK1PTspZRRi2fBB2Sz4QDDoNK9t8a/KDlwPx9WEl7w1oG1bOCQgTDysQrEJsASHsh4AQghMyWg65SF4sakNOSbnRMuREi7gDuWsPORDkImwBIeqHb030sNOQ43ZDjjfmW4sMB62Jw4ccghzzkINArkrlggY5rJNHDEMOulwVPd9ayOkm11Ygxw1n146c861dhx5yIMil2JDDOrTEMOSgaR0FDW2FnLIZUxtyyv7QtiHnnE/uOvKQg0Auxj66MDrbJ9cJlRQOOcuXqx2GnHNBvdfcQw4CuQQ7LV/Uj6DeCCo8RLbFu8loaiwUJDZ8wKbQORyCXOwhB4FctaMQC3L8bOGhG5CD5iASXdFWyCWNQU7Zdt825KhrkJt4yEEgR4OAI0OuH2dJifbrOuSosnNUG3Kp6QOInRMerjzkIDsXaIC9c4F3K6gXDiu7492KftMYrAwH9XLnBIRLDysQrAj2DgTeDwFBsOs05OwWEChpKt6NKvlF2oaccwLC2EMOBDmKvXOB9yO/Nwf71iyHHGsMcsqu1JYhJyaO7kBu5CEHghzD3rkQ92PnguhhpyFnt0pKWVOhIJQZDgWJnTugceghB4JciJ36KK5z67q3XAVDLrb7LKr3NKjnQ85w6qPYOZ/cwEMOBrmEIEOuHZ+cbSppDI13sx1yyqYqbchFho/ci53zyQ07twd1Pqf1kJvxWx41dEBoKB0Qip+pN+6HTy6G+uSY3T45QpuCHCGGISdM3x3IjboGudk0S+a1kON3SXY7bwZykXzmAnqm3qTOJ9dp0xt0zfQMja/EtiTRCe3F+Cp62OlFhF3u4EgZX3VDLbkyvhoOtUz6kU1EtKq3NDxLcy6od0D9cAoaTrGDepNuBfWCh0XRpayFlW5Qrworw0G9iXsCAvGwgsAKPa140o+gXsGu05Czy7emQk433k2FnOF4t8Q5AWHcNQcHlm8NfUbWDwEhgQoI4nlYArlQOXNB+8xm7ANixJ24A7lLDzkQ5NBncuIoOcchJ3rYacjZ5VuLZVk90o13S5hck+F4t5S6BrkrDzkQ5NAPlkn7ISCIHnYScqldMzkVcrqhIArkQsOhIKlzAsLEQw4EuQj7zIW0H+nIU6hPTtDQWsjpLldVyJlerjonPExCDzkQ5ETQDxrk+iE8wCFnl/CgQk5XXVUhZ1hdTZ0THiZdO3MBCXJcHAaABrl+pCNPoduzUst9cnFjkOOGIVcle3KIcl07dAGJcjF2PnIS9CMheQrVV6vOaC3ndM97Vjln+LxnElDXOHflOQfiXILtlyMBlvqgz6yqv3QOWpFyuJBuFqTquOaqJsNZkEjgnJhw5ZegMGhhx76RoB9qQtXHAKCjloNOXjvqg05ez7YOOucEhSsvKIBAl2If/UeCsxUFhNkZ1HNW4c1WaKW64WwKtFLD4WwkcE4guPTQgkCLBmI/Fh60+rE1oepjANDZJYTKoKPa2Y1k0FHT2Y2IAKs7oBt70MFAl2LPzkg/tidUfQwAOrvEUBV0umKoCjrTYiihroFu5EEHAh36KVmE9GOLQtXHToNOINFa0OmqoSroTKuhxDlhYehBBwIdRY/6IHXCQqdtb+BtD2R7TCgoeLZXpzNY7usVrAYMmNTuAZPJjgvtAZPJzpTWB0wskcD07CwCG5vdwkKnjc05YWHgwz5gI2SMPjvribBAwMKCQKIloKu2QQmbCZlkDGDQUdn6EqmmtkEnfoA7oBt60IFAh54RhNCeCAuijwFAZ7mwEMqZJ7VndKGcDbN10Dl3nunIgw4EOvSsIITW+XpdBB2Dgk4g0VbQce08ljLoIsOJQQh1zrk79qCDgQ59xwLFcu6aBh3YR0ftOtZUAV3cGOi4cdDVOYQ7DbpLDzoQ6Dj6jgVa5x92EXQxGHR2+ejUGZ3u8QvqjM7w8QuE1jmEuw06v3EeBLoqqw0a6MT0wHnQpWDQxZaDrjHVVTnyvm3QsTqHcKdBN/agg4EOfZeDkPBcB53oYwDQpXaDLm4qq4i6CG4ddO6JER50INAlnH2OsFHXEzmCgeUIAUVbUddYXhFqPK8Ic06OGHrUgVCXou9zYB2MNWdgaYFZLi00lleEGs8rwpyTFgYeWhBosSBAh1ZPpAUGlhaY3dICCxrLK5I2llekuNzkOwK8f7zogosv+SzbfeJ/&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
+<script type="text/javascript" src="https://viewer.diagrams.net/js/viewer-static.min.js"></script>
+</body>
+</html>
